@@ -8,7 +8,7 @@
 **SHOUK - The Desire** is a modern, ultra-luxurious, and high-performance e-commerce web platform for authentic Indian handlooms, Banarasi, Kanjivaram, and royal accessories. 
 
 The project offers **dual-stack architecture**:
-1. **Standalone Production Version**: [`the_shouk_fashion (2).html`](./the_shouk_fashion%20(2).html) (Single-file zero-dependency web app with Tailwind CSS CDN, FontAwesome, and Vanilla JS ES6+).
+1. **Standalone Production Version**: [`the_shouk_fashion.html`](./the_shouk_fashion%20.html) (Single-file zero-dependency web app with Tailwind CSS CDN, FontAwesome, and Vanilla JS ES6+).
 2. **Modern React.js Version**: Built with **React 18 + Vite + Tailwind CSS + Lucide React + Context API**.
 
 ---
